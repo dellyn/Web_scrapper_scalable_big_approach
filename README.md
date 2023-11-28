@@ -11,3 +11,8 @@ If eslint is not working in your setup with such monorepo like structure. Please
         "company",
     ]
 }
+
+
+Demo:
+https://github.com/dellyn/Web_scrapper_scalable_big_approach/assets/54443742/66c2e9d4-30fe-48ea-8331-1e412cd4046c
+
