@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../react-modules"
+		},
+		{
+			"path": "app"
+		},
+		{
+			"path": "js-libraries"
+		},
+		{
+			"path": "company"
+		},
+		{
+			"path": "html"
+		},
+		{
+			"path": "react-components"
+		},
+		{
+			"path": "js-packages"
+		}
+	],
+	"settings": {}
+}

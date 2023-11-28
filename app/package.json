@@ -1,0 +1,14 @@
+{
+  "license": "MIT",
+  "main": "app/index.tsx",
+  "name": "todo",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "eslint": "npx eslint --quiet .",
+    "export": "next export",
+    "start": "npx serve@latest out",
+    "stylelint": "npx stylelint \"**/*.{css,scss,sass,html}\""
+  },
+  "version": "1.0.0"
+}

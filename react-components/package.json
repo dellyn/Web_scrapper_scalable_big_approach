@@ -1,0 +1,13 @@
+{
+  "name": "react-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "eslint": "npx eslint --quiet .",
+    "stylelint": "npx stylelint \"**/*.{css,scss,sass,html}\" --allow-empty-input",
+    "test": "npx jest",
+    "storybook": "npx storybook dev -p 6006",
+    "build-storybook": "npx storybook build"
+  }
+}

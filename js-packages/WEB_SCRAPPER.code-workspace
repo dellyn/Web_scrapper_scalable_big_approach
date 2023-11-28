@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../react-modules"
+		},
+		{
+			"path": "../../../react-components"
+		},
+		{
+			"path": "../../../js-packages"
+		}
+	],
+	"settings": {}
+}

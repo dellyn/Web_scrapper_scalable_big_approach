@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+.vscode
+.yarnrc
+node_modules
+npm-debug.log
+package-lock.json
+pnpm-debug.log
+test-results
+tmp
+yarn-error.log
+yarn.lock

@@ -1,0 +1,1 @@
+find . -type d \( -name node_modules -o -name .git -o -name .next -o -name dist -o -name out -o -name @modules -o -name objects -o -name vscode -o -name pnpm \) -prune -o -not -name '.*' -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'

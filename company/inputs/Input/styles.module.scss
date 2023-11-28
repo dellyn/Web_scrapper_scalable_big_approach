@@ -1,0 +1,13 @@
+/* CompanyInput.module.css */
+$border-color: rgb(155, 155, 155);
+
+.input {
+    padding: 6px 8px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid $border-color;
+    margin-right: 16px;
+    font-size: 18px;
+    width: 310px;
+
+}

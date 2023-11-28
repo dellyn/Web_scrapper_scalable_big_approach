@@ -1,0 +1,9 @@
+@import "#html/animations/press";
+
+.presentation {
+  .button {
+    &:not(.disabled):active {
+      animation: button-press-animation 0.2s ease-in-out;
+    }
+  }
+}

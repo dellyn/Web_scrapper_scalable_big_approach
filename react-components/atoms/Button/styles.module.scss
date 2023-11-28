@@ -1,0 +1,38 @@
+.button {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  user-select: none;
+  border: 0;
+  outline: none;
+
+  &.disabled {
+
+    cursor: default;
+  }
+
+  &-content {
+    display: inline-flex;
+  }
+
+  &-icon {
+
+    display: inline-flex;
+    min-width: 7px;
+    min-height: 7px;
+
+  }
+
+  &.left {
+    margin-right: 5px;
+
+    &.right {
+      margin-left: 5px;
+
+      .icon {
+        display: inline-flex;
+        align-self: center;
+      }
+    }
+  }
+}
